@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Weather App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>погодное приложение</h1>
+
+  <input type="text" id="city" placeholder="Введите город">
+  <button onclick="getWeather()">Показать погоду</button>
+
+  <div id="weather">
+    <p id="temp"></p>
+    <p id="desc"></p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+<div id="data-container">
+    <p>Загрузка данных из API...</p>
+</div>
+
+</html>

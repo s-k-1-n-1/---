@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  transition: background 0.5s;
+}
+
+input, button {
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+}
+
+.clear {
+  background: #87CEEB;
+}
+
+.clouds {
+  background: #B0C4DE;
+}
+
+.rain {
+  background: #778899;
+}
+
+.snow {
+  background: #FFFFFF;
+}
