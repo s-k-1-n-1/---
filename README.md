@@ -29,6 +29,7 @@
 ### 1. Запуск Backend (Сервер)
 Путь к папке: `C:\Users\student\Downloads\----main\----main\backend`
 
+<<<<<<< HEAD
 # Weather App
 
 ## Установка
@@ -40,6 +41,7 @@ cd backend
 npm install
 node server.js
 
+=======
 4. Если всё успешно, вы увидите надпись: `✅ Сервер запущен на http://localhost:3000`.
 
 ### 2. Запуск Frontend (Сайт)
